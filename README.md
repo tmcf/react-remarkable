@@ -3,6 +3,14 @@ react-remarkable
 
 A React component for rendering Markdown with [remarkable](https://github.com/jonschlinkert/remarkable).
 
+The original project is: https://github.com/acdlite/react-remarkable
+
+This version is forked from: https://github.com/matthewmueller/react-remarkable 
+
+This version is an experiment and may lose compatibility with the original, 
+please use one of the above if you are looking for a *stable* project.
+
+
 ```
 npm install --save react-remarkable
 ```
