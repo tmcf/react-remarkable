@@ -12,7 +12,7 @@ please use one of the above if you are looking for a *stable* project.
 
 
 ```
-npm install --save react-remarkable
+npm install --save tmcf/react-remarkable
 ```
 
 ## Usage
