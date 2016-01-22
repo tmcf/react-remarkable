@@ -9,7 +9,7 @@ var Remarkable = React.createClass({
   getDefaultProps() {
     return {
       container: 'div',
-      options: {},
+      options: {}
     };
   },
 
@@ -17,13 +17,13 @@ var Remarkable = React.createClass({
     var Container = this.props.container;
 
     return (
-      <Container>
+        <Container>
         {this.content()}
       </Container>
     );
   },
 
-  componentWillUpdate(nextProps, nextState) {
+  componentWillUpdate(nextProps /*, nextState */) {
     if (nextProps.options !== this.props.options) {
       this.md = new Markdown(nextProps.options);
     }

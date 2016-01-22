@@ -1,3 +1,10 @@
+1.1.3-tmcf / 2016-01-20
+=======================
+
+ * experimental fork
+ * update package.json dependencies
+ * add .babelrc
+ 
 
 1.1.2 / 2015-06-13
 ==================
