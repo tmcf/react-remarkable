@@ -1,6 +1,6 @@
 {
   "name": "react-remarkable",
-  "version": "1.1.5-tmcf",
+  "version": "1.1.6-tmcf",
   "description": "A React component for rendering Markdown with remarkable [DEV FORK]",
   "main": "dist/index.js",
   "repository": {
@@ -8,6 +8,7 @@
     "url": "https://github.com/tmcf/react-remarkable.git"
   },
   "dependencies": {
+    "babel-cli": "^6.6.5",
     "remarkable": "^1.6.1",
     "strip-indent": "^1.0.1"
   },
