@@ -1,6 +1,6 @@
 {
   "name": "react-remarkable",
-  "version": "1.1.7-SNAPSHOT",
+  "version": "1.1.7",
   "description": "A React component for rendering Markdown with remarkable [DEV FORK]",
   "main": "dist/index.js",
   "repository": {
